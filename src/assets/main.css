@@ -1,0 +1,15 @@
+@import './base.css';
+*{
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+}
+#app{
+    margin: 0;
+    padding: 0;
+    background-color: #11111126;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
